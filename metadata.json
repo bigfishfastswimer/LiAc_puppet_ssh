@@ -1,0 +1,15 @@
+{
+  "name": "fishereatworld-ssh",
+  "version": "0.1.0",
+  "author": "fishereatworld",
+  "summary": "this is for lab module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/bigfishfastswimer/linuxacademy_puppet_ssh.git",
+  "project_page": "https://github.com/bigfishfastswimer/linuxacademy_puppet_ssh",
+  "issues_url": "https://github.com/bigfishfastswimer/linuxacademy_puppet_ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
