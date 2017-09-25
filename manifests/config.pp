@@ -8,6 +8,6 @@ class ssh::config (
     owner  => 'root',
     group  => 'root',
     #source => 'puppet:///modules/ssh/sshd_config',
-    content => template('ssh/sshd_config.erb')
+    content => template('ssh/sshd_config.erb'),
  }
 }
